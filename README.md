@@ -53,5 +53,3 @@
 Каталог `src/` — XML-выгрузка Конфигуратора. Чтобы собрать `.epf`: «Конфигуратор → Файл → Открыть» корневой `ГотовностьБазыКПодключениюИИ.xml` из `src/`, затем «Файл → Сохранить как». Или из командной строки: `1cv8 DESIGNER ... /LoadExternalDataProcessorOrReportFromFiles src\ГотовностьБазыКПодключениюИИ.xml ГотовностьБазыКПодключениюИИ.epf`.
 
 Лицензия MIT, см. `LICENSE`. Автор: Nulio.
-
-Подключить ИИ к базе под правами сотрудника: [nulio.ru](https://nulio.ru/specialistam/?utm_source=github&utm_medium=readme&utm_campaign=odata_check).
